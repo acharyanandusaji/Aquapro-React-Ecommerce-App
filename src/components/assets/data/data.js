@@ -132,14 +132,14 @@ export const products = [
 export const banner = [
   {
     id: 1,
-    title1: "Simple IPhone ",
+    title1: "Aquarium ",
     title2: "Mockups Design PSD, Ai, EPS",
     desc: "Sale 30% Off For Members",
     cover: "../images/banner/banner-1.jpg",
   },
   {
     id: 2,
-    title1: "Mockup PSD",
+    title1: "Aquarium",
     title2: "50+ Ui Screen Mockups",
     desc: "Sale 30% Off For Members",
     cover: "../images/banner/banner-2.jpg",
